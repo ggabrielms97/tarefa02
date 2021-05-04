@@ -1,6 +1,4 @@
-
-
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="top-bar" content="FFFFFF"><meta name="highlight" content="EF5B25"><meta name="right-sidebar" content="303030"><meta name="logo" content="https://res.cloudinary.com/postman/image/upload/t_team_logo_pubdoc/v1/team/768118b36f06c94b0306958b980558e6915839447e859fe16906e29d683976f0"><meta name="run-js" content="https://run.pstmn.io/button.js"><meta name="run-css" content="https://run.pstmn.io/button.css"><meta name="environmentUID" content="-"><meta name="collection-info-public" content="true"><meta name="ownerId" content="15599869"><meta name="publishedId" content="TzRNEVHC"><meta name="collectionId" content="15599869-4d0ff606-7375-443a-8bfb-17523bec39b4"><meta name="versionTagId" content="latest"> <meta name="description" content="# Introduction
+# Introduction
 Uma Simples API
 
 # Overview
@@ -521,4 +519,3 @@ Não ah erros alem da falta de dois methodos get
   <div id="toast-container" class="toast-container">
   </div>
 </div>
-<script src="https://cdn.ravenjs.com/3.26.2/raven.min.js" nonce="Ld0KmdtB2LKciJ2F87uw+w7E5T06h1X23+/IA0DynyP8Kc+V" crossorigin="anonymous"></script><script src="/js/production.min.73fffe07bf1b6aa0536a.js" nonce="Ld0KmdtB2LKciJ2F87uw+w7E5T06h1X23+/IA0DynyP8Kc+V" id="script-data-scope" data-var-user-id="" data-var-environment="production" data-var-team-id="" data-var-host="" data-var-hostname="documenter.getpostman.com" data-var-api-host="https://documenter.gw.postman.com" data-var-documenter-domains-regex="^documenter.(postman|getpostman).com$" data-var-version="1.21.6" data-var-sentry-dsn="https://714c749bafde4552896bc6298c2c28a6@sentry.postmanlabs.com/11"></script><script src="/js/main.7f290ef154b1ade3d0ae.js" nonce="Ld0KmdtB2LKciJ2F87uw+w7E5T06h1X23+/IA0DynyP8Kc+V"></script><script src="/js/runbutton.js" nonce="Ld0KmdtB2LKciJ2F87uw+w7E5T06h1X23+/IA0DynyP8Kc+V" id="public-run-button-embed" data-web-host="https://www.getpostman.com/" data-button-url="https://run.pstmn.io/button.js"></script><div id="root"/></body></html>
